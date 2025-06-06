@@ -1,0 +1,11 @@
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# package manager
+node_modules/
